@@ -10,7 +10,7 @@ Hi, you can call me Liao, a Master's student in Computer and Information Systems
 - **Master's in Computer and Information Systems** — University of Aizu, 2024–2027 (expected)
 - **Bachelor's in Computer Science and Engineering** — University of Aizu, 2020–2024
 
-## Personal Interests
+## :heart: Personal Interests
 - Badminton
 - Anime & ACG culture
 - NovelAI 
