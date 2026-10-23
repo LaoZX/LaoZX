@@ -1,5 +1,15 @@
 ## Ciallo～(∠・ω< )⌒★
+Hi, I'm LaoZX, a Master's student in Computer and Information Systems at the **University of Aizu, Japan**. I study privacy, data security, and trustworthy systems.
 
+## 🔒 Research Interests
+
+- Privacy-preserving computing, blockchain, and trusted execution environments (TEEs)
+- LLM prompt engineering, social engineering, and malicious intent detection
+
+## 🎓 Education
+
+- **Master's in Computer and Information Systems** — University of Aizu, 2024–2027 (expected)
+- **Bachelor's in Computer Science and Engineering** — University of Aizu, 2020–2024
 
 <!--
 **LaoZX/LaoZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
