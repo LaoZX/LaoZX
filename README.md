@@ -1,7 +1,7 @@
 # Ciallo～(∠・ω< )⌒★, This is LaoZX
 Hi, you can call me Liao, a Master's student in Computer and Information Systems at the **University of Aizu, Japan**. I study cyber security, data privacy, and trustworthy systems.
 
-## 🔒 Research Interests
+## :page_with_curl: Research Interests
 - Privacy-preserving computing, blockchain, and trusted execution environments (TEEs)
 - LLM prompt engineering, social engineering, and malicious intent detection
 
